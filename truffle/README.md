@@ -1,6 +1,7 @@
 # truffleframework example
 
-
+### ETH OVERVIEW
+- http://truffleframework.com/tutorials/ethereum-overview
 
 ### Prerequisites
 Before starting this tutorial, you must install:
@@ -8,14 +9,11 @@ Before starting this tutorial, you must install:
 - Ganache (http://truffleframework.com/ganache//)
 - openzeppelin-solidity
 
-## ETH OVERVIEW
-- http://truffleframework.com/tutorials/ethereum-overview
 
 ### Install
 ```
 $ npm install -g truffle
 $ npm install openzeppelin-solidity --save
-
 ```
 
 ### Run
